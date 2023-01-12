@@ -57,6 +57,7 @@ export default function Header({ placeholder }) {
           height={100}
           width={100}
           className="cursor-pointer"
+          alt="airbnb logo"
         />
       </div>
 
